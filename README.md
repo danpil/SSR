@@ -1,1 +1,1 @@
-SSR priject
+SSR project
